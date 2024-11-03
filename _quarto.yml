@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "מכנען לישראל הקדום / שי גורדין"
+  open-graph: true
+  reader-mode: true
+  navbar:
+    right:
+      - href: index.qmd
+        text: עמוד הבית
+      - href: about.qmd
+        text: תכנית הקורס
+      - href: assignments.qmd
+        text: מטלות
+  page-footer:
+    background: light
+    left: "© Shai Gordin, 2024"
+    right: 
+      - icon: github
+        href: https://github.com/shaigordin
+        aria-label: Shai Gordin GitHub
+      - icon: twitter 
+        href: https://twitter.com/shgordin
+        aria-label: Shai Gordin Twitter
+      - icon: envelope
+        href: mailto:shygordin@gmail.com
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Alef:wght@400;700&display=swap" rel="stylesheet">
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "בעמוד זה"
+    html-metadata:
+      lang: he
+      dir: rtl
+      
+  

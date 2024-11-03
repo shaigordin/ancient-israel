@@ -1,0 +1,129 @@
+/* css styles */
+
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Alef', sans-serif;
+  font-size: 18px;
+  /*font-family: 'Press Start 2P', cursive;
+  background-image: url('images/home_page.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-color: black;
+  color: #00FF00; */
+}
+
+Headings 
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+/* Headings and other elements */
+h1 {
+  font-size: 2.2em; /* Larger for main headings */
+}
+
+h2 {
+  font-size: 1.8em; /* Medium for sub-headings */
+}
+
+h3 {
+  font-size: 1.5em; /* Slightly smaller */
+}
+
+p {
+  font-size: 1.1em; /* Slightly larger for regular paragraph text */
+}
+
+footer {
+  font-size: 0.8em; /* Smaller font size for footer */
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;  /* Smaller font size for mobile screens */
+  }
+
+  h1 {
+    font-size: 1.8em;  /* Adjust heading size on smaller screens */
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+/*.homepage body {
+  background-image: url('images/home_page.png') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-color: rgba(0, 0, 0, 0.7) !important; /* Semi-transparent background color */
+}
+
+/* Links 
+a {
+  color: #FF00FF;
+}
+
+/* Fallback for browsers that support target-new */
+/*a:not([href^="#"]) {
+  target-new: tab;      
+}
+
+/* Optional: Add an external link icon or indicator */
+/*a:not([href^="#"])::after {
+  content: ' ↗'; 
+}
+
+/* Sidebar 
+.sidebar {
+  background-color: #111;
+  border: 4px solid #FF00FF;
+  padding: 10px;
+  color: #00FF00;
+  box-shadow: 0 0 10px #00FFFF;
+}
+
+/* Content
+.content {
+  border: 4px solid #FF00FF;
+  padding: 10px;
+  box-shadow: 0 0 10px #00FFFF;
+}
+
+/* Buttons
+button, .btn {
+  background-color: #FF4500;
+  color: #FFFFFF;
+  border: 2px solid #00FFFF;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-family: 'Press Start 2P', cursive;
+}
+
+button:hover, .btn:hover {
+  background-color: #00FF00;
+  border-color: #FF00FF;
+}
+
+/* Blinking Text
+.blinking-text {
+  color: #FFFF00;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* Images
+img {
+  image-rendering: pixelated;
+  border: 2px solid #FF00FF;
+}
+
