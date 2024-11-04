@@ -16,5 +16,8 @@
   },
   "assignments/lightning-talk.qmd": {
     "lightning-talk.html": "324a43d4"
+  },
+  "assignments/term-paper.qmd": {
+    "term-paper.html": "ea2845c1"
   }
 }
