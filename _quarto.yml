@@ -8,12 +8,18 @@ website:
   reader-mode: true
   navbar:
     right:
-      - href: index.qmd
-        text: עמוד הבית
-      - href: about.qmd
-        text: תכנית הקורס
-      - href: assignments.qmd
-        text: מטלות
+      - text: "עמוד הבית"
+        href: index.qmd
+      - text: "תכנית הקורס"
+        href: about.qmd
+      - text: "מטלות"
+        menu:
+          - text: "מרכיבי הציון"
+            href: assignments/index.qmd
+          - text: "הרצאת בזק"
+            href: assignments/lightning-talk.qmd
+      - text: "ספרות ומקורות"
+        href: literature.qmd
   page-footer:
     background: light
     left: "© Shai Gordin, 2024"

@@ -7,5 +7,14 @@
   },
   "assignments.qmd": {
     "assignments.html": "1bf66d39"
+  },
+  "literature.qmd": {
+    "literature.html": "d0971111"
+  },
+  "assignments/index.qmd": {
+    "index.html": "ee08b5c8"
+  },
+  "assignments/lightning-talk.qmd": {
+    "lightning-talk.html": "324a43d4"
   }
 }

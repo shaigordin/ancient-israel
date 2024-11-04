@@ -1,0 +1,22 @@
+---
+title: "בבליוגרפיה ומקורות"
+bibliography: refernces.bib
+---
+
+## מקורות מקוונים
+
+## המזרח הקדום בתקופת הברונזה המאוחרת
+
+1.  @bvnymvbyts2019Prq, [קישור למאמר](https://drive.google.com/file/d/1JGE7NJo5lzDl4XfkHsXJEKPXkbk9Uy4y/view?usp=sharing){target="_blank"}
+
+2.  @sherratt2013Introduction
+
+3.  @mazar1992Archaeology
+
+4.  @flouris2024Analysis
+
+## האימפריה המצרית בכנען – תעודות אל-עמארנה
+
+1.  @qvk2018Tslh
+
+פלוריס ואחרים 2024
