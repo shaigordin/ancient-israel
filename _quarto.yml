@@ -4,9 +4,11 @@ project:
 
 website:
   title: "מכנען לישראל הקדום / שי גורדין"
+  favicon: Merenptah_Stele_Israel.png
   open-graph: true
   reader-mode: true
   navbar:
+    logo: ariel_logo_navbar.png
     right:
       - text: "עמוד הבית"
         href: index.qmd

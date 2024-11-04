@@ -37,6 +37,11 @@ p {
   font-size: 1.1em; /* Slightly larger for regular paragraph text */
 }
 
+header .quarto-logo img {
+    width: 350px; /* Adjust this width to your preferred size */
+    height: auto; /* Maintains aspect ratio */
+}
+
 footer {
   font-size: 0.8em; /* Smaller font size for footer */
 }
