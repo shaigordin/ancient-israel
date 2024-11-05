@@ -15,6 +15,8 @@ bibliography: refernces.bib
 
 4.  @flouris2024Analysis
 
-## האימפריה המצרית בכנען – תעודות אל-עמארנה
+## האימפריה המצרית בכנען -- תעודות אל-עמארנה
 
 1.  @qvk2018Tslh
+
+2.  @kvkby-ryyny2005
