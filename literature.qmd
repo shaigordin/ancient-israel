@@ -5,6 +5,16 @@ bibliography: refernces.bib
 
 ## מקורות מקוונים
 
+-   פרויקט עמארנה: [https://www.amarnaproject.com](https://www.amarnaproject.com/)
+
+-   ירושלים בתעודות אל-עמארנה: [Jerusalem in El Amarna](https://www.bibleodyssey.org/articles/jerusalem-in-the-amarna-letters/)
+
+-   ישראל הקדום (פינקלשטיין): [https://israelfinkelstein.wordpress.com/articles/history-of-ancient-israel](https://israelfinkelstein.wordpress.com/articles/history-of-ancient-israel/)
+
+-   ישראל הקדום (עמיחי מזר): [https://www.biblicalarchaeology.org/scholar/amihai-mazar](https://www.biblicalarchaeology.org/scholar/amihai-mazar/)
+
+-   מוזיאון ישראל, רקע ארכיאולוגי: <https://www.imj.org.il/en/wings/archaeology/archaeology-land-israel>
+
 ## המזרח הקדום בתקופת הברונזה המאוחרת
 
 1.  @bvnymvbyts2019Prq, [קישור למאמר](https://drive.google.com/file/d/1JGE7NJo5lzDl4XfkHsXJEKPXkbk9Uy4y/view?usp=sharing){target="_blank"}
