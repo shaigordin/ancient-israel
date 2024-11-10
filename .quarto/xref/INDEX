@@ -19,5 +19,8 @@
   },
   "assignments/term-paper.qmd": {
     "term-paper.html": "ea2845c1"
+  },
+  "assignments/midterm.qmd": {
+    "midterm.html": "cde84b8c"
   }
 }

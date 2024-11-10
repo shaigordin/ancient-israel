@@ -15,8 +15,61 @@ bibliography: refernces.bib
 
 4.  @flouris2024Analysis
 
-## האימפריה המצרית בכנען -- תעודות אל-עמארנה
+## האימפריה המצרית בכנען – תעודות אל-עמארנה
 
 1.  @qvk2018Tslh
 
 2.  @kvkby-ryyny2005
+
+3.  @naaman2005Economic
+
+## עדויות לראשית ישראל – תעודות מהלבאנט ומצרים
+
+1.  @kahn2012Merneptah
+
+2.  @cohen2018Cuneiform
+
+##  עדויות לראשית ישראל – מקורות מקראיים
+
+1.  @nmn1990Prsht
+
+2.  @naaman2017Rediscovering
+
+## עדויות לראשית ישראל – ארכיאולוגיה
+
+1.  @ilan2018Conquest
+
+2.  @finkelstein2013Forgotten (ch. 1)
+
+## רמות ההר בראשית תקופת הברזל
+
+1.  @faust2016Israel
+
+2.  @dyvvr1998Gzr
+
+## מסע שישק
+
+1.  @finkelstein2013Forgotten (ch. 2)
+
+2.  @nmn1998Ms
+
+## ירושלים וסביבותיה בברונזה המאוחרת ובברזל
+
+1.  @pynqlshtyyn2006Dvd
+2.  @mazar2006Jerusalem
+
+## תקופת השופטים – מקרא וארכיאולוגיה
+
+1.  @master2018Phases
+
+2.  @finkelstein2017Major
+
+## סיכום – ביקורת המקורות
+
+1.  @ben-yosef2023False
+
+2.  @finkelstein2019First
+
+3.  @dever1995Will
+
+4.  @dever1995Willa

@@ -20,6 +20,8 @@ website:
             href: assignments/index.qmd
           - text: "הרצאת בזק"
             href: assignments/lightning-talk.qmd
+          - text: "תרגיל אמצע"
+            href: assignments/midterm.qmd
           - text: "עבודה מסכמת"
             href: assignments/term-paper.qmd
       - text: "ספרות ומקורות"
