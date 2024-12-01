@@ -39,7 +39,7 @@ bibliography: refernces.bib
 
 2.  @cohen2018Cuneiform
 
-##  עדויות לראשית ישראל – מקורות מקראיים
+## עדויות לראשית ישראל – מקורות מקראיים
 
 1.  @nmn1990Prsht
 
