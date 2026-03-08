@@ -28,7 +28,7 @@ website:
         href: literature.qmd
   page-footer:
     background: light
-    left: "© Shai Gordin, 2024"
+    left: "© Shai Gordin, 2026"
     right: 
       - icon: github
         href: https://github.com/shaigordin
