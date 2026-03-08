@@ -1,5 +1,14 @@
 /* css styles */
 
+/* RTL table fixes — override Quarto's forced text-align: left on th/td */
+table {
+  direction: rtl;
+}
+table th,
+table td {
+  text-align: right !important;
+}
+
 body {
   direction: rtl;
   text-align: right;

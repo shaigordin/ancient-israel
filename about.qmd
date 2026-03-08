@@ -11,7 +11,7 @@ title: "תכנית הוראה מפורטת"
 df <- read.csv("data/schedule-unit1.csv", check.names = FALSE)
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
-  table.attr = 'class="table table-striped table-hover"')
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
 ```
 
 ## יחידה 2: עדויות לראשית ישראל
@@ -23,7 +23,7 @@ knitr::kable(df, escape = FALSE, format = "html",
 df <- read.csv("data/schedule-unit2.csv", check.names = FALSE)
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
-  table.attr = 'class="table table-striped table-hover"')
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
 ```
 
 ## יחידה 3: תקופת הברזל - מקרא מול ארכיאולוגיה
@@ -35,5 +35,5 @@ knitr::kable(df, escape = FALSE, format = "html",
 df <- read.csv("data/schedule-unit3.csv", check.names = FALSE)
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
-  table.attr = 'class="table table-striped table-hover"')
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
 ```
