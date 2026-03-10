@@ -9,6 +9,14 @@ table td {
   text-align: right !important;
 }
 
+/* Bibliography — each entry auto-detects direction from its first strong character:
+   Latin author names → LTR/left; Hebrew author names → RTL/right */
+.csl-bib-body,
+.csl-entry {
+  unicode-bidi: plaintext;
+  text-align: start;
+}
+
 body {
   direction: rtl;
   text-align: right;
