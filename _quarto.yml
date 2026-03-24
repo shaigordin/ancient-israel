@@ -10,8 +10,6 @@ website:
   navbar:
     logo: ariel_logo_navbar.png
     right:
-      - text: "עמוד הבית"
-        href: index.qmd
       - text: "תכנית הקורס"
         href: about.qmd
       - text: "מטלות"
