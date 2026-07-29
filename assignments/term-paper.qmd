@@ -10,7 +10,13 @@ title: "עבודה מסכמת"
 
 -   [הגשה סופית]{.underline}: 01/08/26, עד חצות
 
-כל ההגשות יועלו [**בקישור הבא**](https://forms.gle/uKhVdFJFpttCmLcT7){target="_blank"}
+הגשות הביניים (ראשי פרקים, שאלת מחקר וניתוח מקור/ממצא) יועלו [**בקישור הבא**](https://forms.gle/uKhVdFJFpttCmLcT7){target="_blank"}
+
+::: callout-important
+## הגשת העבודה המסכמת
+
+את **העבודה המסכמת (הגשה סופית)** יש להעלות [**בקישור הבא**](https://forms.gle/ur6LYQm7KLu4GUYt6){target="_blank"}, עד 01/08/26 בחצות.
+:::
 
 ### מבנה העבודה
 
