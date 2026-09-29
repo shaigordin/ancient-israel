@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "מכנען לישראל הקדום / שי גורדין"
+  title: "ראשית ישראל במזרח הקדום / שי גורדין"
   favicon: Merenptah_Stele_Israel.png
   open-graph: true
   reader-mode: true

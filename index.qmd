@@ -1,6 +1,6 @@
 ---
-title: "מכנען לישראל הקדום תשפ״ז"
-subtitle: "From Canaan to Ancient Israel"
+title: "ראשית ישראל במזרח הקדום תשפ״ז"
+subtitle: "Ancient Israel"
 image: Merneptah_Stele_2022_09.png
 fig-cap: "^[תמונה מתוך: [Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Merneptah_Stele_2022_09.jpg).]"
 about: 
