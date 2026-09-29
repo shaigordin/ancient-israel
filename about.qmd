@@ -8,7 +8,7 @@ title: "תכנית הוראה מפורטת"
 #| echo: false
 #| message: false
 #| warning: false
-df <- read.csv("data/schedule-unit1.csv", check.names = FALSE)
+df <- read.csv("data/schedule-unit1.csv", check.names = FALSE, encoding = "UTF-8")
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
   table.attr = 'class="table table-striped table-hover" dir="rtl"')
@@ -20,7 +20,7 @@ knitr::kable(df, escape = FALSE, format = "html",
 #| echo: false
 #| message: false
 #| warning: false
-df <- read.csv("data/schedule-unit2.csv", check.names = FALSE)
+df <- read.csv("data/schedule-unit2.csv", check.names = FALSE, encoding = "UTF-8")
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
   table.attr = 'class="table table-striped table-hover" dir="rtl"')
@@ -32,7 +32,7 @@ knitr::kable(df, escape = FALSE, format = "html",
 #| echo: false
 #| message: false
 #| warning: false
-df <- read.csv("data/schedule-unit3.csv", check.names = FALSE)
+df <- read.csv("data/schedule-unit3.csv", check.names = FALSE, encoding = "UTF-8")
 knitr::kable(df, escape = FALSE, format = "html",
   col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה / פעילות", "סרטונים ומדיה"),
   table.attr = 'class="table table-striped table-hover" dir="rtl"')
