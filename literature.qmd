@@ -3,6 +3,8 @@ title: "בבליוגרפיה ומקורות"
 bibliography: refernces.bib
 ---
 
+פריטים שנוספו השנה מסומנים ב-🆕.
+
 ## מקורות מקוונים
 
 -   פרויקט עמארנה: [https://www.amarnaproject.com](https://www.amarnaproject.com/)
@@ -25,6 +27,8 @@ bibliography: refernces.bib
 
 4.  @flouris2024Analysis
 
+5.  🆕 @manning2023Severe
+
 ## האימפריה המצרית בכנען – תעודות אל-עמארנה
 
 1.  @qvk2018Tslh
@@ -32,6 +36,8 @@ bibliography: refernces.bib
 2.  @kvkby-ryyny2005
 
 3.  @naaman2005Economic
+
+4.  🆕 @koch2021Colonial (מבט ״מלמטה״ על השלטון המצרי)
 
 ## עדויות לראשית ישראל – תעודות מהלבאנט ומצרים
 
@@ -51,11 +57,21 @@ bibliography: refernces.bib
 
 2.  @finkelstein2013Forgotten (ch. 1)
 
+## מקרה בוחן: לוחית הקללה מהר עיבל
+
+1.  🆕 @stripling2023Cursed
+
+2.  🆕 @rollston2023Ebal
+
+3.  🆕 @haughwout2024Ebal
+
 ## רמות ההר בראשית תקופת הברזל
 
 1.  @faust2016Israel
 
 2.  @dyvvr1998Gzr
+
+3.  🆕 @agranat-tamir2020Genomic
 
 ## מסע שישק
 
@@ -68,11 +84,19 @@ bibliography: refernces.bib
 1.  @pynqlshtyyn2006Dvd
 2.  @mazar2006Jerusalem
 
+3.  🆕 @regev2024Radiocarbon
+
+4.  🆕 @finkelstein2024Observations
+
 ## תקופת השופטים – מקרא וארכיאולוגיה
 
 1.  @master2018Phases
 
 2.  @finkelstein2017Major
+
+3.  🆕 @sergi2023Two, מבוא
+
+4.  🆕 @rollston2021Jerubbaal
 
 ## סיכום – ביקורת המקורות
 
@@ -83,3 +107,7 @@ bibliography: refernces.bib
 3.  @dever1995Will
 
 4.  @dever1995Willa
+
+5.  🆕 @ben-yosef2021Rethinking
+
+6.  🆕 @sukenik2021Purple
