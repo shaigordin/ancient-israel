@@ -1,0 +1,25 @@
+---
+title: "תרגול בכיתה: האימפריה המצרית בכנען"
+---
+
+::: {.callout-note appearance="simple"}
+**תרגול, לא נכנס לציון** · **אישי** · **רמת AI:** [1]{.lvl .lvl-1} (בלי AI) · **מתי:** בכיתה, 03/11/26
+:::
+
+### לפני השיעור
+
+- קוראים את [בונימוביץ׳ 2019](https://drive.google.com/file/d/1E-N0fZiNxMwwJfj60Y-OejHp4ZMEUEho/view?usp=sharing){target="_blank"}, עמ׳ 7–32.
+- מומלץ: פרק מתוך Koch 2021, מבט ״מלמטה״ על השלטון המצרי בכנען.
+- מאזינים לתסכיתים מהתערוכה ״פרעה בכנען״ במוזיאון ישראל: [אמנות אל-עמארנה](https://museum.imj.org.il/he/audioguides/pharaoh/page/?id=6){target="_blank"}, [האסטלה של סתי הראשון](https://museum.imj.org.il/he/audioguides/pharaoh/page/?id=8){target="_blank"}, [איגרת ממושל ירושלים](https://museum.imj.org.il/he/audioguides/pharaoh/page/?id=20){target="_blank"} ו[איגרת ממלך מצרים](https://museum.imj.org.il/he/audioguides/pharaoh/page/?id=21){target="_blank"}.
+
+### בכיתה
+
+עונים במודל על 10 שאלות קצרות על המאמר ועל השיעור: מקורות, כרונולוגיה, ההיקסוס, מגידו וקדש, ותקופת אל-עמארנה. הבוחן פתוח לכ-15 דקות, בלי AI ובלי חיפוש ברשת. אפשר להיעזר בסיכומים שכתבתם בעצמכם.
+
+::: {.callout-tip appearance="simple"}
+הקישור לבוחן במודל יפורסם בתחילת השיעור.
+:::
+
+### אחרי השיעור
+
+אחרי שהבוחן נסגר, מודל מציג לכל שאלה את התשובה הנכונה עם הסבר קצר. השאלות דומות בסגנונן ל[תרגיל האמצע](../assignments/midterm.qmd), ולכן זו גם הכנה טובה אליו.
