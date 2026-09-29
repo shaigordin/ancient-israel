@@ -24,6 +24,9 @@ website:
             href: assignments/term-paper.qmd
       - text: "ספרות ומקורות"
         href: literature.qmd
+      - icon: robot
+        text: "מדיניות AI"
+        href: ai-policy.qmd
   page-footer:
     background: light
     left: "© Shai Gordin, 2026-2027"
@@ -45,7 +48,9 @@ format:
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Alef:wght@400;700&display=swap" rel="stylesheet">
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - ai.css
     toc: true
     toc-title: "בעמוד זה"
     html-metadata:
