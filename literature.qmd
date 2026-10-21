@@ -18,93 +18,93 @@ bibliography: refernces.bib
 
 ## המזרח הקדום בתקופת הברונזה המאוחרת
 
-1.  @bvnymvbyts2019Prq, [קישור למאמר](https://drive.google.com/file/d/1E-N0fZiNxMwwJfj60Y-OejHp4ZMEUEho/view?usp=sharing){target="_blank"}
+1.  @bvnymvbyts2019Prq — [PDF](https://drive.google.com/file/d/1E-N0fZiNxMwwJfj60Y-OejHp4ZMEUEho/view?usp=sharing){target="_blank"}
 
-2.  @sherratt2013Introduction
+2.  @sherratt2013Introduction — [פרסום מקורי](https://doi.org/10.1093/oxfordhb/9780199212972.013.033){target="_blank"}
 
-3.  @mazar1992Archaeology
+3.  @mazar1992Archaeology (ספר, זמין בספרייה)
 
-4.  @manning2023Severe
+4.  @manning2023Severe — [פרסום מקורי (גישה חופשית)](https://doi.org/10.1038/s41586-022-05693-y){target="_blank"}
 
 ## האימפריה המצרית בכנען – תעודות אל-עמארנה
 
-1.  @qvk2018Tslh
+1.  @qvk2018Tslh — [PDF (הקדמה)](https://drive.google.com/file/d/18zNoZ_CNR_LQhzY5zr7oNN0ruLNm2BXN/view?usp=sharing){target="_blank"}
 
-2.  @kvkby-ryyny2005
+2.  @kvkby-ryyny2005 — [PDF](https://drive.google.com/file/d/1i16ChdfaWyd-YhTmYvdzcGsPG7Le6ove/view?usp=sharing){target="_blank"}
 
-3.  @naaman2005Economic
+3.  @naaman2005Economic — [פרסום מקורי](https://www.eisenbrauns.org/books/titles/978-1-57506-113-9.html){target="_blank"} · [PDF](https://drive.google.com/file/d/17aMbLxHKLfZAe2A2SE2Iyyzc_E8Pyr5X/view?usp=sharing){target="_blank"}
 
-4.  @koch2021Colonial (מבט ״מלמטה״ על השלטון המצרי)
+4.  @koch2021Colonial (מבט ״מלמטה״ על השלטון המצרי) — [פרסום מקורי](https://doi.org/10.1163/9789004432833){target="_blank"}
 
 ## עדויות לראשית ישראל – תעודות מהלבנט וממצרים
 
-1.  @kahn2012Merneptah
+1.  @kahn2012Merneptah — [פרסום מקורי](https://ugarit-verlag.com/products/the-ancient-near-east-in-the-12th-10th-centuries-bce-culture-and-history-proceedings-of-the-international-conference-held-at-the-university-of-haifa-2-5-may-2010-aoat-392){target="_blank"} · [PDF](https://drive.google.com/file/d/1ZTE8_AVX8qHMc1SJaI4uEemOMJT6Akfs/view?usp=sharing){target="_blank"}
 
-2.  @cohen2018Cuneiform
+2.  @cohen2018Cuneiform — [פרסום מקורי](https://doi.org/10.1017/9781316661468.015){target="_blank"} · [PDF](https://drive.google.com/file/d/1TpWMcf1hbMC-w7gYnCT4RKcs4oU4WLff/view?usp=sharing){target="_blank"}
 
 ## עדויות לראשית ישראל – מקורות מקראיים
 
-1.  @nmn1990Prsht
+1.  @nmn1990Prsht — [PDF](https://drive.google.com/file/d/1g4Scu3_JBWh-q5qF1jUfBJnt0uj2nBPM/view?usp=sharing){target="_blank"}
 
-2.  @naaman2017Rediscovering
+2.  @naaman2017Rediscovering — [פרסום מקורי](https://www.eisenbrauns.org/books/titles/978-1-57506-787-2.html){target="_blank"} · [PDF](https://drive.google.com/file/d/1_sekIX7WLio417FSiyIFtPU4NES3aSvE/view?usp=sharing){target="_blank"}
 
 ## עדויות לראשית ישראל – ארכיאולוגיה
 
-1.  @ilan2018Conquest
+1.  @ilan2018Conquest — [פרסום מקורי](https://doi.org/10.1017/9781316661468.017){target="_blank"} · [PDF](https://drive.google.com/file/d/1S_l6Lr23WJnRp_izd0tI0E1d6OBSYs4a/view?usp=sharing){target="_blank"}
 
-2.  @finkelstein2013Forgotten (ch. 1)
+2.  @finkelstein2013Forgotten (ch. 1) — [פרסום מקורי (SBL Press, גישה חופשית)](https://press.sbl-site.org/?p=2558){target="_blank"} · [PDF (פרק 1)](https://drive.google.com/file/d/1iYBot4FnrfvwRbDrEhBctBZGIWDGFxET/view?usp=sharing){target="_blank"}
 
 ## מקרה בוחן: לוחית הקללה מהר עיבל
 
-1.  @stripling2023Cursed
+1.  @stripling2023Cursed — [פרסום מקורי (גישה חופשית)](https://doi.org/10.1186/s40494-023-00920-9){target="_blank"}
 
-2.  @rollston2023Ebal
+2.  @rollston2023Ebal — [PDF (academia.edu)](https://www.academia.edu/121907987){target="_blank"}
 
-3.  @haughwout2024Ebal
+3.  @haughwout2024Ebal — [פרסום מקורי (גישה חופשית)](https://www.nature.com/articles/s40494-023-01130-z){target="_blank"}
 
 ## רמות ההר בראשית תקופת הברזל
 
-1.  @faust2016Israel
+1.  @faust2016Israel — [PDF (פרקים 16–18)](https://drive.google.com/file/d/16rp7WiM94PK6zrrMLhxZVOgYS-MZET9r/view?usp=sharing){target="_blank"}
 
-2.  @dyvvr1998Gzr
+2.  @dyvvr1998Gzr — [PDF](https://drive.google.com/file/d/10fQ1QG5mElJ6bBUK06CW09_6GUWzmioi/view?usp=sharing){target="_blank"}
 
-3.  @agranat-tamir2020Genomic
+3.  @agranat-tamir2020Genomic — [פרסום מקורי (גישה חופשית)](https://doi.org/10.1016/j.cell.2020.04.024){target="_blank"}
 
 ## מסע שישק
 
-1.  @finkelstein2013Forgotten (ch. 2)
+1.  @finkelstein2013Forgotten (ch. 2) — [פרסום מקורי (SBL Press, גישה חופשית)](https://press.sbl-site.org/?p=2558){target="_blank"} · [PDF (פרק 2)](https://drive.google.com/file/d/14U-gpmw-8TfVe5EQVeWFuMwW2dzZagUL/view?usp=sharing){target="_blank"}
 
-2.  @nmn1998Ms
+2.  @nmn1998Ms — [פרסום מקורי (JSTOR)](https://www.jstor.org/stable/23563442){target="_blank"} · [PDF](https://drive.google.com/file/d/1ULiyEZ0Lo0FAES3lFYcSllR9mGDUIhBK/view?usp=sharing){target="_blank"}
 
 ## ירושלים וסביבותיה בברונזה המאוחרת ובברזל
 
-1.  @pynqlshtyyn2006Dvd
-2.  @mazar2006Jerusalem
+1.  @pynqlshtyyn2006Dvd — [PDF](https://drive.google.com/file/d/1xNE-x_biabuxzYr3EVEIiCPoG4PlF7q8/view?usp=sharing){target="_blank"}
+2.  @mazar2006Jerusalem — [פרסום מקורי](https://www.eisenbrauns.org/books/titles/978-1-57506-128-3.html){target="_blank"} · [PDF](https://drive.google.com/file/d/1s1H2hjRwcjyfRHMdbA505iHFUSZ-zA3u/view?usp=sharing){target="_blank"}
 
-3.  @regev2024Radiocarbon
+3.  @regev2024Radiocarbon — [פרסום מקורי (גישה חופשית)](https://doi.org/10.1073/pnas.2321024121){target="_blank"}
 
-4.  @finkelstein2024Observations
+4.  @finkelstein2024Observations — [academia.edu](https://www.academia.edu/118497127){target="_blank"}
 
 ## תקופת השופטים – מקרא וארכיאולוגיה
 
-1.  @master2018Phases
+1.  @master2018Phases — [פרסום מקורי](https://doi.org/10.1017/9781316661468.021){target="_blank"} · [PDF](https://drive.google.com/file/d/1kq0fx8hQQaAAjLII_A6M8RoTx7UP8pMJ/view?usp=sharing){target="_blank"}
 
-2.  @finkelstein2017Major
+2.  @finkelstein2017Major — [פרסום מקורי](https://doi.org/10.1177/0309089216670545){target="_blank"} · [PDF](https://drive.google.com/file/d/1QJea-2XaOtxHKP4c_LRvZwhgfIi7c9Et/view?usp=sharing){target="_blank"}
 
-3.  @sergi2023Two, מבוא
+3.  @sergi2023Two, מבוא — [פרסום מקורי](https://press.sbl-site.org/?p=1534){target="_blank"}
 
-4.  @rollston2021Jerubbaal
+4.  @rollston2021Jerubbaal — [פרסום מקורי (גישה חופשית)](https://jjar.huji.ac.il/sites/default/files/jjar/files/rollston_et_al._2021_jjar_2_1-15.pdf){target="_blank"}
 
 ## סיכום – ביקורת המקורות
 
-1.  @ben-yosef2023False
+1.  @ben-yosef2023False — [פרסום מקורי](https://www.eisenbrauns.org/books/titles/978-1-64602-261-8.html){target="_blank"} · [PDF](https://drive.google.com/file/d/1q8BMNHqxP5_1iiSmGJgRVTuoRwCpzx4V/view?usp=sharing){target="_blank"}
 
-2.  @finkelstein2019First
+2.  @finkelstein2019First — [פרסום מקורי](https://doi.org/10.1086/703321){target="_blank"} · [PDF](https://drive.google.com/file/d/11sAjqhYH1kNlbQLFasTl_qtcLmNHFjpO/view?usp=sharing){target="_blank"}
 
-3.  @dever1995Will
+3.  @dever1995Will — [פרסום מקורי](https://doi.org/10.2307/1357390){target="_blank"} · [PDF](https://drive.google.com/file/d/1lEf9AJgFIABLBvxmDuZBQAfOb1fcg8DQ/view?usp=sharing){target="_blank"}
 
-4.  @dever1995Willa
+4.  @dever1995Willa — [פרסום מקורי](https://doi.org/10.2307/1357084){target="_blank"} · [PDF](https://drive.google.com/file/d/1Nqo_ihLtOGG4hJj8gxneWOMXybsXzocp/view?usp=sharing){target="_blank"}
 
-5.  @ben-yosef2021Rethinking
+5.  @ben-yosef2021Rethinking — [פרסום מקורי (גישה חופשית)](https://jjar.huji.ac.il/sites/default/files/jjar/files/ben-yosef_2021_jjar_1_155-179.pdf){target="_blank"}
 
-6.  @sukenik2021Purple
+6.  @sukenik2021Purple — [פרסום מקורי (גישה חופשית)](https://doi.org/10.1371/journal.pone.0245897){target="_blank"}
