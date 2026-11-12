@@ -149,3 +149,21 @@ img {
   border: 2px solid #FF00FF;
 }
 
+
+/* Schedule tables: scroll sideways on narrow screens instead of breaking words;
+   each link in the slides column is its own button, the lesson summary in a different colour */
+.schedule-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 1.5rem; }
+.schedule-wrap table.schedule { margin-bottom: 0; }
+@media (max-width: 900px) { .schedule-wrap table.schedule { min-width: 760px; } }
+table.schedule td, table.schedule th { word-break: keep-all; overflow-wrap: normal; hyphens: none; vertical-align: top; }
+table.schedule td:first-child { white-space: nowrap; }
+table.schedule td:nth-child(3) { min-width: 11rem; }
+table.schedule td:nth-child(3) a {
+  display: block; margin: 0 0 .4rem; padding: .3rem .6rem; line-height: 1.3;
+  border: 1px solid #cdbf9f; border-radius: .4rem; background: #f8f4ea;
+  color: #22303a; text-decoration: none; font-weight: 600;
+}
+table.schedule td:nth-child(3) a::before { content: "\1F4D1\00A0"; }
+table.schedule td:nth-child(3) a.lesson-summary { background: #eaf2f7; border-color: #9cb8ca; font-weight: 400; }
+table.schedule td:nth-child(3) a.lesson-summary::before { content: "\1F4DD\00A0"; }
+table.schedule td:nth-child(3) a:hover { filter: brightness(.95); }
